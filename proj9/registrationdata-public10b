@@ -1,0 +1,24 @@
+addcourse GEOG 366 105
+addcourse BMGT 646 99
+addcourse GEMS 589 135
+addcourse MUSC 163 109
+addregistration BMGT 646 Wally Walrus
+addregistration GEMS 589 Pamela Camel
+addregistration GEOG 366 Allie Alligator
+addregistration MUSC 163 Ryan Lion
+addregistration GEMS 589 Allie Alligator
+addregistration MUSC 163 Jack Yak
+addregistration GEMS 589 Freddy Frog
+addregistration GEOG 366 Iggy Iguana
+addregistration GEOG 366 Lizzie Lizard
+addregistration MUSC 163 Timmy Termite
+addregistration GEMS 589 Clem Clam
+addregistration BMGT 646 Dolly Dolphin
+addregistration BMGT 646 Peggy Penguin
+addregistration BMGT 646 Robyn Robin
+addregistration GEMS 589 Ellie Elephant
+addregistration BMGT 646 Jackie Jaguar
+addregistration MUSC 163 Bryson Bison
+addregistration GEOG 366 Jackie Jaguar
+addregistration MUSC 163 Cathy Cat
+addregistration GEOG 366 Chippy Chipmunk

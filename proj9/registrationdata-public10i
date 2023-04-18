@@ -1,0 +1,24 @@
+addcourse AASP 154 20
+addcourse LING 699 199
+addcourse PHYS 152 80
+addcourse CHEM 977 23
+addregistration LING 699 Pooja Poodle
+addregistration AASP 154 Bryson Bison
+addregistration PHYS 152 Pooja Poodle
+addregistration CHEM 977 Betty Butterfly
+addregistration AASP 154 Sheena Sheep
+addregistration AASP 154 Rama Llama
+addregistration LING 699 Ellie Elephant
+addregistration CHEM 977 Ferris Ferret
+addregistration LING 699 Peggy Penguin
+addregistration LING 699 Lemuel Lemur
+addregistration AASP 154 Roth Moth
+addregistration PHYS 152 Betty Butterfly
+addregistration PHYS 152 Amy Amoeba
+addregistration PHYS 152 Dolly Dolphin
+addregistration AASP 154 Dolly Dolphin
+addregistration CHEM 977 Iggy Iguana
+addregistration PHYS 152 Jackie Jaguar
+addregistration CHEM 977 Amy Amoeba
+addregistration LING 699 Bryson Bison
+addregistration CHEM 977 Manny Manatee

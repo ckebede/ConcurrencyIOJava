@@ -1,0 +1,24 @@
+addcourse GEOL 410 68
+addcourse PHIL 619 109
+addcourse ENME 272 143
+addcourse ECON 243 133
+addregistration ECON 243 Peggy Penguin
+addregistration GEOL 410 Roth Moth
+addregistration ENME 272 Cathy Cat
+addregistration PHIL 619 Clem Clam
+addregistration PHIL 619 Ryan Lion
+addregistration ENME 272 Lizzie Lizard
+addregistration ECON 243 Earl Squirrel
+addregistration ENME 272 Sally Salamander
+addregistration PHIL 619 Lemuel Lemur
+addregistration ENME 272 Ferris Ferret
+addregistration ECON 243 Rama Llama
+addregistration ECON 243 Lemuel Lemur
+addregistration PHIL 619 Sheena Sheep
+addregistration ENME 272 Polly Possum
+addregistration PHIL 619 Roth Moth
+addregistration ECON 243 Bryson Bison
+addregistration GEOL 410 Cathy Cat
+addregistration GEOL 410 Earl Squirrel
+addregistration GEOL 410 Jack Yak
+addregistration GEOL 410 Kourtney Koala

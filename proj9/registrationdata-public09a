@@ -1,0 +1,120 @@
+addcourse HIST 783 164
+addcourse FIRE 935 137
+addcourse AMST 548 144
+addcourse KORA 254 61
+addcourse ENGM 721 7
+addcourse IMDM 864 176
+addcourse EDHD 804 58
+addcourse PLSC 648 69
+addcourse AASP 154 20
+addcourse ITAL 494 179
+addcourse LING 699 199
+addcourse BIOE 819 139
+addcourse CHEM 977 23
+addcourse JAPN 935 41
+addcourse CMSC 531 93
+addcourse CCJS 141 19
+addcourse PHYS 152 80
+addcourse KNES 887 178
+addcourse PSYC 982 31
+addcourse ASTR 844 155
+addregistration JAPN 935 Ferris Ferret
+addregistration AMST 548 Neil Eel
+addregistration JAPN 935 Lizzie Lizard
+addregistration CMSC 531 Robyn Robin
+addregistration KNES 887 Rita Cheetah
+addregistration ITAL 494 Bruce Moose
+addregistration HIST 783 Sally Salamander
+addregistration CHEM 977 Ferris Ferret
+addregistration EDHD 804 Iggy Iguana
+addregistration IMDM 864 Polly Possum
+addregistration KNES 887 Chippy Chipmunk
+addregistration FIRE 935 Sally Salamander
+addregistration KORA 254 Sheena Sheep
+addregistration PHYS 152 Betty Butterfly
+addregistration ASTR 844 Earl Squirrel
+addregistration PSYC 982 Robyn Robin
+addregistration KNES 887 Manny Manatee
+addregistration CHEM 977 Betty Butterfly
+addregistration CMSC 531 Cammy Camel
+addregistration KNES 887 Earl Squirrel
+addregistration AASP 154 Sheena Sheep
+addregistration KORA 254 Lemuel Lemur
+addregistration PHYS 152 Dolly Dolphin
+addregistration BIOE 819 Pamela Camel
+addregistration AMST 548 Peggy Penguin
+addregistration LING 699 Ellie Elephant
+addregistration PHYS 152 Pooja Poodle
+addregistration IMDM 864 Jackie Jaguar
+addregistration FIRE 935 Jack Yak
+addregistration KNES 887 Kourtney Koala
+addregistration CCJS 141 Sally Salamander
+addregistration PLSC 648 Bryson Bison
+addregistration PHYS 152 Jackie Jaguar
+addregistration LING 699 Lemuel Lemur
+addregistration HIST 783 Rita Cheetah
+addregistration CHEM 977 Manny Manatee
+addregistration CMSC 531 Allie Alligator
+addregistration CMSC 531 Otto Otter
+addregistration EDHD 804 Ellie Elephant
+addregistration CCJS 141 Earl Squirrel
+addregistration ASTR 844 Clem Clam
+addregistration CHEM 977 Iggy Iguana
+addregistration BIOE 819 Bruce Moose
+addregistration ENGM 721 Pooja Poodle
+addregistration ASTR 844 Dolly Dolphin
+addregistration KORA 254 Ryan Lion
+addregistration AMST 548 Wally Walrus
+addregistration FIRE 935 Sheena Sheep
+addregistration IMDM 864 Bruce Moose
+addregistration PSYC 982 Ginny Giraffe
+addregistration JAPN 935 Rita Cheetah
+addregistration IMDM 864 Iggy Iguana
+addregistration PSYC 982 Rama Llama
+addregistration BIOE 819 Roth Moth
+addregistration BIOE 819 Polly Possum
+addregistration ITAL 494 Cammy Camel
+addregistration HIST 783 Sheena Sheep
+addregistration CCJS 141 Freddy Frog
+addregistration ASTR 844 Horace Horse
+addregistration PSYC 982 Lizzie Lizard
+addregistration ITAL 494 Polly Possum
+addregistration JAPN 935 Ginny Giraffe
+addregistration ENGM 721 Amy Amoeba
+addregistration KORA 254 Horace Horse
+addregistration ENGM 721 Oscar Ostrich
+addregistration PHYS 152 Amy Amoeba
+addregistration CCJS 141 Ryan Lion
+addregistration HIST 783 Roth Moth
+addregistration ASTR 844 Manny Manatee
+addregistration AASP 154 Roth Moth
+addregistration PLSC 648 Otto Otter
+addregistration EDHD 804 Neil Eel
+addregistration EDHD 804 Ginny Giraffe
+addregistration AMST 548 Pooja Poodle
+addregistration LING 699 Peggy Penguin
+addregistration PLSC 648 Robyn Robin
+addregistration AASP 154 Bryson Bison
+addregistration LING 699 Bryson Bison
+addregistration IMDM 864 Ellie Elephant
+addregistration ENGM 721 Chippy Chipmunk
+addregistration CMSC 531 Armando Armadillo
+addregistration JAPN 935 Manny Manatee
+addregistration LING 699 Pooja Poodle
+addregistration AASP 154 Rama Llama
+addregistration CHEM 977 Amy Amoeba
+addregistration BIOE 819 Cathy Cat
+addregistration PSYC 982 Ferris Ferret
+addregistration CCJS 141 Rita Cheetah
+addregistration ENGM 721 Cathy Cat
+addregistration EDHD 804 Oscar Ostrich
+addregistration AASP 154 Dolly Dolphin
+addregistration PLSC 648 Betty Butterfly
+addregistration ITAL 494 Horace Horse
+addregistration PLSC 648 Wally Walrus
+addregistration AMST 548 Ryan Lion
+addregistration FIRE 935 Betty Butterfly
+addregistration ITAL 494 Allie Alligator
+addregistration KORA 254 Timmy Termite
+addregistration HIST 783 Lemuel Lemur
+addregistration FIRE 935 Horace Horse

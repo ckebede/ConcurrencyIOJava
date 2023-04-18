@@ -1,0 +1,24 @@
+addcourse CMSC 531 93
+addcourse EDHD 804 58
+addcourse MATH 564 67
+addcourse ENGL 567 12
+addregistration CMSC 531 Otto Otter
+addregistration ENGL 567 Otto Otter
+addregistration CMSC 531 Robyn Robin
+addregistration MATH 564 Manny Manatee
+addregistration EDHD 804 Ellie Elephant
+addregistration CMSC 531 Allie Alligator
+addregistration CMSC 531 Armando Armadillo
+addregistration ENGL 567 Ferris Ferret
+addregistration MATH 564 Pooja Poodle
+addregistration MATH 564 Kourtney Koala
+addregistration EDHD 804 Oscar Ostrich
+addregistration ENGL 567 Pamela Camel
+addregistration EDHD 804 Ginny Giraffe
+addregistration EDHD 804 Neil Eel
+addregistration EDHD 804 Iggy Iguana
+addregistration ENGL 567 Freddy Frog
+addregistration MATH 564 Bruce Moose
+addregistration CMSC 531 Cammy Camel
+addregistration MATH 564 Peggy Penguin
+addregistration ENGL 567 Cammy Camel

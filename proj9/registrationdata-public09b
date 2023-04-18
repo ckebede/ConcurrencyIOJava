@@ -1,0 +1,120 @@
+addcourse DANC 229 63
+addcourse ENGL 567 12
+addcourse GEOL 410 68
+addcourse BMGT 646 99
+addcourse SOCY 972 18
+addcourse ANSC 189 123
+addcourse PHIL 619 109
+addcourse ANTH 479 59
+addcourse ENME 272 143
+addcourse MATH 564 67
+addcourse MUSC 163 109
+addcourse ECON 243 133
+addcourse THET 776 87
+addcourse NFSC 398 127
+addcourse HACS 566 82
+addcourse ARCH 269 100
+addcourse STAT 990 103
+addcourse GEOG 366 105
+addcourse GEMS 589 135
+addcourse CINE 363 137
+addregistration MATH 564 Pooja Poodle
+addregistration HACS 566 Clem Clam
+addregistration NFSC 398 Jack Yak
+addregistration SOCY 972 Wally Walrus
+addregistration ARCH 269 Amy Amoeba
+addregistration MUSC 163 Bryson Bison
+addregistration ARCH 269 Pamela Camel
+addregistration THET 776 Horace Horse
+addregistration GEOG 366 Iggy Iguana
+addregistration ECON 243 Peggy Penguin
+addregistration BMGT 646 Jackie Jaguar
+addregistration THET 776 Jackie Jaguar
+addregistration GEMS 589 Clem Clam
+addregistration MUSC 163 Jack Yak
+addregistration GEMS 589 Ellie Elephant
+addregistration GEOL 410 Roth Moth
+addregistration SOCY 972 Chippy Chipmunk
+addregistration BMGT 646 Dolly Dolphin
+addregistration ARCH 269 Armando Armadillo
+addregistration HACS 566 Kourtney Koala
+addregistration THET 776 Armando Armadillo
+addregistration ENGL 567 Cammy Camel
+addregistration GEOL 410 Jack Yak
+addregistration PHIL 619 Clem Clam
+addregistration ANSC 189 Kourtney Koala
+addregistration PHIL 619 Ryan Lion
+addregistration PHIL 619 Roth Moth
+addregistration STAT 990 Neil Eel
+addregistration ENME 272 Ferris Ferret
+addregistration CINE 363 Jack Yak
+addregistration GEOL 410 Kourtney Koala
+addregistration ECON 243 Lemuel Lemur
+addregistration ENME 272 Polly Possum
+addregistration ENME 272 Cathy Cat
+addregistration ANTH 479 Betty Butterfly
+addregistration STAT 990 Timmy Termite
+addregistration GEOL 410 Earl Squirrel
+addregistration ENME 272 Sally Salamander
+addregistration GEOL 410 Cathy Cat
+addregistration BMGT 646 Wally Walrus
+addregistration THET 776 Rama Llama
+addregistration ARCH 269 Robyn Robin
+addregistration HACS 566 Ginny Giraffe
+addregistration ANTH 479 Cammy Camel
+addregistration DANC 229 Clem Clam
+addregistration MATH 564 Kourtney Koala
+addregistration ARCH 269 Oscar Ostrich
+addregistration GEMS 589 Freddy Frog
+addregistration MATH 564 Peggy Penguin
+addregistration ANTH 479 Otto Otter
+addregistration NFSC 398 Neil Eel
+addregistration ENGL 567 Otto Otter
+addregistration ECON 243 Bryson Bison
+addregistration GEOG 366 Lizzie Lizard
+addregistration MATH 564 Bruce Moose
+addregistration STAT 990 Oscar Ostrich
+addregistration ENGL 567 Ferris Ferret
+addregistration DANC 229 Neil Eel
+addregistration ENME 272 Lizzie Lizard
+addregistration ENGL 567 Freddy Frog
+addregistration GEOG 366 Allie Alligator
+addregistration MUSC 163 Cathy Cat
+addregistration CINE 363 Rama Llama
+addregistration HACS 566 Rita Cheetah
+addregistration DANC 229 Timmy Termite
+addregistration ENGL 567 Pamela Camel
+addregistration GEMS 589 Pamela Camel
+addregistration HACS 566 Cammy Camel
+addregistration ANSC 189 Allie Alligator
+addregistration PHIL 619 Sheena Sheep
+addregistration MATH 564 Manny Manatee
+addregistration ANSC 189 Lizzie Lizard
+addregistration ANSC 189 Timmy Termite
+addregistration DANC 229 Iggy Iguana
+addregistration GEOG 366 Chippy Chipmunk
+addregistration THET 776 Polly Possum
+addregistration STAT 990 Ellie Elephant
+addregistration SOCY 972 Ginny Giraffe
+addregistration ANSC 189 Freddy Frog
+addregistration NFSC 398 Otto Otter
+addregistration NFSC 398 Oscar Ostrich
+addregistration ECON 243 Rama Llama
+addregistration BMGT 646 Peggy Penguin
+addregistration CINE 363 Amy Amoeba
+addregistration DANC 229 Sally Salamander
+addregistration PHIL 619 Lemuel Lemur
+addregistration SOCY 972 Bruce Moose
+addregistration MUSC 163 Timmy Termite
+addregistration CINE 363 Dolly Dolphin
+addregistration CINE 363 Pamela Camel
+addregistration ANTH 479 Armando Armadillo
+addregistration ECON 243 Earl Squirrel
+addregistration ANTH 479 Chippy Chipmunk
+addregistration GEMS 589 Allie Alligator
+addregistration SOCY 972 Armando Armadillo
+addregistration BMGT 646 Robyn Robin
+addregistration STAT 990 Wally Walrus
+addregistration GEOG 366 Jackie Jaguar
+addregistration MUSC 163 Ryan Lion
+addregistration NFSC 398 Freddy Frog

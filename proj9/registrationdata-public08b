@@ -1,0 +1,15 @@
+addcourse AMSC 460 58
+addcourse IMDM 150 35
+addcourse STAT 400 127
+addcourse ITAL 207 15
+addcourse ASTR 315 48
+addregistration STAT 400 Sally Salamander
+addregistration ITAL 207 Wally Walrus
+addregistration ASTR 315 Kortney Koala
+addregistration IMDM 150 Dolly Dolphin
+addregistration AMSC 460 Peggy Penguin
+addregistration STAT 400 Wally Walrus
+addregistration ITAL 207 Kortney Koala
+addregistration ASTR 315 Dolly Dolphin
+addregistration IMDM 150 Peggy Penguin
+addregistration AMSC 460 Sally Salamander

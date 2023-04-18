@@ -1,0 +1,24 @@
+addcourse HIST 783 164
+addcourse FIRE 935 137
+addcourse AMST 548 144
+addcourse KORA 254 61
+addregistration HIST 783 Rita Cheetah
+addregistration HIST 783 Sally Salamander
+addregistration FIRE 935 Sally Salamander
+addregistration AMST 548 Peggy Penguin
+addregistration FIRE 935 Sheena Sheep
+addregistration KORA 254 Timmy Termite
+addregistration AMST 548 Wally Walrus
+addregistration HIST 783 Roth Moth
+addregistration KORA 254 Sheena Sheep
+addregistration AMST 548 Pooja Poodle
+addregistration KORA 254 Ryan Lion
+addregistration FIRE 935 Jack Yak
+addregistration HIST 783 Sheena Sheep
+addregistration KORA 254 Horace Horse
+addregistration AMST 548 Ryan Lion
+addregistration KORA 254 Lemuel Lemur
+addregistration FIRE 935 Betty Butterfly
+addregistration AMST 548 Neil Eel
+addregistration HIST 783 Lemuel Lemur
+addregistration FIRE 935 Horace Horse

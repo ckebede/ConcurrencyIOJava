@@ -1,0 +1,15 @@
+addcourse CMSC 132 500
+addcourse BIOE 250 10
+addcourse ENGL 101 10
+addcourse PSYC 100 8
+addcourse COMM 184 7
+addregistration CMSC 132 Ellie Elephant
+addregistration PSYC 100 Manny Manatee
+addregistration BIOE 250 Sheena Sheep
+addregistration COMM 184 Leo Leopard
+addregistration ENGL 101 Amy Amoeba
+addregistration CMSC 132 Manny Manatee
+addregistration PSYC 100 Sheena Sheep
+addregistration BIOE 250 Leo Leopard
+addregistration COMM 184 Amy Amoeba
+addregistration ENGL 101 Ellie Elephant
